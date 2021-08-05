@@ -9,7 +9,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 import com.inti.entities.Utilisateur;
 
 public class UtilisateurDetail implements UserDetails {
-
+//BONjourrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 	/**
 	 * Classe intermediaire qui permet de s'adapter avec le projet déja conçu, faire le lien avec spring security
 	 */
